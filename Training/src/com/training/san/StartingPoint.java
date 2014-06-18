@@ -13,6 +13,7 @@ public class StartingPoint extends Activity implements OnClickListener {
 	Button width, height, calc;
 	TextView area;
 
+	// some change
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
