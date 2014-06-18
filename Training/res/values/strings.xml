@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">Training</string>
+    <string name="Hello">Hello San</string>
+    <string name="two">two</string>
+    <string name="three">three</string>
+    <string name="sendinfo">SendInfo</string>
+    <string name="title">Passing Values</string>
+    <string name="display_name">Display Name</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="save">Save</string>
+    <string name="filename">Filename</string>
+    <string name="jrnlEntry">Journal Entry</string>
+    <string name="saveFile">Save File</string>
+
+</resources>
